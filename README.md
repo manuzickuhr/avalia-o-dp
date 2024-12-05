@@ -1,1 +1,2 @@
-# avalia-o-dp
+# avaliação-dp
+emily, manuela víctor e vinícius
